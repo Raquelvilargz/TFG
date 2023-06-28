@@ -37,3 +37,16 @@ Una vez descargado el proyecto e instalado el software necesario, se puede lleva
    curl -d riskLevel -X PUT http://localhost:8080/riskLevel
    ```   
  Donde riskLevel puede tomar valores "0", "1", o "2".
+
+
+## Créditos
+
+Para desarrollar esta aplicación se ha utilizado parte del código de <a href=https://osrg.github.io/ryu-book/en/html/switching_hub.html>switching hub</a> y <a href=https://osrg.github.io/ryu-book/en/html/spanning_tree.html>spanning tree</a> de la documentación de Ryu.
+
+
+
+
+
+
+
+
