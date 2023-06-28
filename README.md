@@ -1,5 +1,9 @@
 # Mitigación de riesgos de ciberseguridad utilizando microsegmentación
 
+<b>Autor</b>: Raquel Vila Rodríguez
+<b>Tutor</b>: D. Sonia Solera Cotanilla
+<b>Ponente</b>: D. Mario Vega-Barbas
+
 ## Descripción
 
 Este es el código utilizado en el caso de estudio del Trabajo de Fin de Grado. Consta de tres archivos:
