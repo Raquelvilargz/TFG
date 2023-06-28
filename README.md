@@ -26,7 +26,7 @@ Una vez descargado el proyecto e instalado el software necesario, se puede lleva
    ``` 
 2. Crear la red con mininet:
    ```sh
-   sudo mn --custom mininet-topologies/topology_2.py --mac --pre mininet-topologies/config_3 --topo mytopo --controller=remote,ip=127.0.0.1,port=6633 --switch ovs,protocols=OpenFlow13
+   sudo mn --custom mininet-topologies/topology.py --mac --pre mininet-topologies/config --topo mytopo --controller=remote,ip=127.0.0.1,port=6633 --switch ovs,protocols=OpenFlow13
    ``` 
 3. Visualización del nivel de riesgo a través de la API:
    ```sh
