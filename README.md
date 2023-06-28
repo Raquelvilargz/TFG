@@ -1,8 +1,8 @@
 # Mitigación de riesgos de ciberseguridad utilizando microsegmentación
 
-<b>Autor</b>: Raquel Vila Rodríguez
-<b>Tutor</b>: D. Sonia Solera Cotanilla
-<b>Ponente</b>: D. Mario Vega-Barbas
+<b>Autor</b>: Raquel Vila Rodríguez <br>
+<b>Tutor</b>: D. Sonia Solera Cotanilla <br>
+<b>Ponente</b>: D. Mario Vega-Barbas <br>
 
 ## Descripción
 
