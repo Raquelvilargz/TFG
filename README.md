@@ -34,6 +34,6 @@ Una vez descargado el proyecto e instalado el software necesario, se puede lleva
    ``` 
 4. Modificación del nivel de riesgo a través de la API:
    ```sh
-   curl -d riskLevel -X PUThttp://localhost:8080/riskLevel
+   curl -d riskLevel -X PUT http://localhost:8080/riskLevel
    ```   
  Donde riskLevel puede tomar valores "0", "1", o "2".
